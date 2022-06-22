@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "UniprotR"]
+	path = UniprotR
+	url = https://github.com/proteomicslab57357/uniprotr
+	shallow = true
+	registered = true
